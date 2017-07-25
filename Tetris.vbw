@@ -1,0 +1,9 @@
+FRMentrada = 66, 66, 441, 410, C, 22, 22, 397, 366, C
+FRMjogar = 110, 110, 485, 454, C, 66, 66, 441, 410, C
+FRMcontroles = 0, 0, 375, 344, C, 88, 88, 463, 432, C
+FRMrecordes = 0, 0, 0, 0, C, 110, 110, 485, 454, C
+ControleJogo = 132, 132, 507, 476, C
+MusicaFundo = 154, 154, 529, 498, C
+Sons = 22, 22, 397, 366, C
+Variaveis = 44, 44, 419, 388, C
+Recorde = 0, 0, 375, 344, C
